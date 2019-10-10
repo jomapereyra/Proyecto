@@ -1,0 +1,5 @@
+entornoProyecto
+activate.bat
+desactivate.bat
+.vscode
+__pycache__
